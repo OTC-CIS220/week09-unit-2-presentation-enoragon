@@ -1,0 +1,34 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro 5000 (ID=0x6d9)
+    Vendor:   NVIDIA
+    VRAM:     2485 MB
+    Driver:   10.18.13.5362
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Enoch Bradshaw\Documents\Git\GameAssignmentTwo\GameAssignment2\Pee Simulator\TestBuilds\testgame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Enoch Bradshaw\Documents\Git\GameAssignmentTwo\GameAssignment2\Pee Simulator\TestBuilds\testgame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Enoch Bradshaw\Documents\Git\GameAssignmentTwo\GameAssignment2\Pee Simulator\TestBuilds\testgame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Enoch Bradshaw\Documents\Git\GameAssignmentTwo\GameAssignment2\Pee Simulator\TestBuilds\testgame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Enoch Bradshaw\Documents\Git\GameAssignmentTwo\GameAssignment2\Pee Simulator\TestBuilds\testgame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Enoch Bradshaw\Documents\Git\GameAssignmentTwo\GameAssignment2\Pee Simulator\TestBuilds\testgame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Enoch Bradshaw\Documents\Git\GameAssignmentTwo\GameAssignment2\Pee Simulator\TestBuilds\testgame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Enoch Bradshaw\Documents\Git\GameAssignmentTwo\GameAssignment2\Pee Simulator\TestBuilds\testgame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.203 seconds
+Platform assembly: C:\Users\Enoch Bradshaw\Documents\Git\GameAssignmentTwo\GameAssignment2\Pee Simulator\TestBuilds\testgame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Enoch Bradshaw\Documents\Git\GameAssignmentTwo\GameAssignment2\Pee Simulator\TestBuilds\testgame_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.433341 ms
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 4dc4 -> priority: 1 
+  Thread -> id: 3b84 -> priority: 1 
+  Thread -> id: 3230 -> priority: 1 
+  Thread -> id: 238c -> priority: 1 
+  Thread -> id: 3140 -> priority: 1 
+  Thread -> id: 3328 -> priority: 1 
+  Thread -> id: 2240 -> priority: 1 
+  Thread -> id: 354c -> priority: 1 
